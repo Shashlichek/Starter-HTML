@@ -2,6 +2,6 @@
 <html>
   <body>
   <ol>
-    <li> 
+    <li> Begin <li>
   </body>
 <html>
